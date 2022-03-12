@@ -1,0 +1,28 @@
+{
+  "name": "angular-one-signal",
+  "version": "0.0.1",
+  "description": "This package load the one signal e allow your site send notifications to you browser. ",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eufelipemateus/angular-one-signal.git"
+  },
+  "keywords": [
+    "onesginal",
+    "angular",
+    "notifications"
+  ], 
+	"author": {
+		"name": "Felipe Mateus",
+		"email": "eu@felipemateus.com",
+		"url": "https://eufelipemateus.com/"
+	},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eufelipemateus/angular-one-signal/issues"
+  },
+  "homepage": "https://github.com/eufelipemateus/angular-one-signal#readme"
+}
